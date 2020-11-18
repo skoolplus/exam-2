@@ -1,5 +1,6 @@
 # EXAM 2
-Exam 2's documents!
 
-## Copyright
-Copyright (c) Skool +.
+## License
+Copyright &copy; **SkoolPlus**. All rights reserved.
+
+Licensed under the [CC0](LICENSE) license.
